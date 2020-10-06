@@ -1,0 +1,28 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
+
+.section-image {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+p {
+    font-size: 20px;
+}
